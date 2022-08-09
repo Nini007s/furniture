@@ -1,0 +1,45 @@
+body{
+    background-color: #e9e5e5;
+}
+#hero{
+    height: 600px;
+    /* background-color: #e9e5e5; */
+}
+.navbar-nav{
+    text-align: center;
+}
+.container{
+    margin-top: 30px;
+}
+.sofa{
+    position: absolute;
+    left: 550px;
+    bottom: 10px
+    
+}
+.sofa img{
+    width: 750px;
+    height: 450px;
+}
+.btn1{
+    
+    border-radius: 40px;
+    margin-left: 50px;
+    width: 100px;   
+}
+#shop1{
+    color:white;
+}
+
+.btn2{
+    border-radius: 40px;
+    margin-left: 30px;
+    width: 100px;
+}
+.nav-item{
+    font-size: 20px;
+}
+.navbar-brand{
+    font-size: 25px;
+}
+/* test */
